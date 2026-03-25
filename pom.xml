@@ -3,7 +3,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.rkhd.platform</groupId>
+    <groupId>com.hongyang.platform</groupId>
     <artifactId>paas-entity-service</artifactId>
     <version>${revision}</version>
     <packaging>pom</packaging>
@@ -47,22 +47,22 @@
                 <version>${framework-mq-import.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.rkhd.platform</groupId>
+                <groupId>com.hongyang.platform</groupId>
                 <artifactId>paas-entity-service-core</artifactId>
                 <version>${revision}</version>
             </dependency>
             <dependency>
-                <groupId>com.rkhd.platform</groupId>
+                <groupId>com.hongyang.platform</groupId>
                 <artifactId>paas-metarepo-service-core</artifactId>
                 <version>${paas-metarepo-service.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.rkhd.platform</groupId>
+                <groupId>com.hongyang.platform</groupId>
                 <artifactId>paas-privilege-service-core</artifactId>
                 <version>${paas-privilege-service.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.rkhd.platform</groupId>
+                <groupId>com.hongyang.platform</groupId>
                 <artifactId>paas-rule-service-core</artifactId>
                 <version>${paas-rule-service.version}</version>
             </dependency>

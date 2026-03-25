@@ -6,7 +6,7 @@
     <artifactId>paas-entity-service-core</artifactId>
     <packaging>jar</packaging>
     <parent>
-        <groupId>com.rkhd.platform</groupId>
+        <groupId>com.hongyang.platform</groupId>
         <artifactId>paas-entity-service</artifactId>
         <version>${revision}</version>
     </parent>
