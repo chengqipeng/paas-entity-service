@@ -25,7 +25,7 @@
         <dependency><groupId>com.xxx</groupId><artifactId>framework-redis-client</artifactId></dependency>
         <dependency><groupId>com.github.ben-manes.caffeine</groupId><artifactId>caffeine</artifactId></dependency>
         <dependency><groupId>com.xxx</groupId><artifactId>framework-mq-client</artifactId></dependency>
-        <dependency><groupId>com.xxx</groupId><artifactId>framework-lifecycle-spring-boot-autoconfigure</artifactId><version>${framework-lifecycle.version}</version></dependency>
+        <dependency><groupId>com.xxx</groupId><artifactId>framework-lifecycle-spring-boot-autoconfigure</artifactId></dependency>
         <dependency><groupId>org.projectlombok</groupId><artifactId>lombok</artifactId></dependency>
         <dependency><groupId>com.alibaba.fastjson2</groupId><artifactId>fastjson2</artifactId></dependency>
         <dependency><groupId>com.google.guava</groupId><artifactId>guava</artifactId></dependency>
