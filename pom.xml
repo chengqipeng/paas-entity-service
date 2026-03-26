@@ -24,6 +24,7 @@
     </properties>
     <modules>
         <module>paas-entity-service-core</module>
+        <module>paas-entity-service-feign</module>
         <module>paas-entity-service-server</module>
     </modules>
     <dependencyManagement>
@@ -49,6 +50,11 @@
             <dependency>
                 <groupId>com.hongyang.platform</groupId>
                 <artifactId>paas-entity-service-core</artifactId>
+                <version>${revision}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.hongyang.platform</groupId>
+                <artifactId>paas-entity-service-feign</artifactId>
                 <version>${revision}</version>
             </dependency>
             <dependency>
